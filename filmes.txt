@@ -1,5 +1,6 @@
-"Não há certezas, apenas oportunidades." (V de Vingança)
+﻿"Não há certezas, apenas oportunidades." (V de Vingança)
 "Diga ’olá’ para meu pequeno amigo!" (Scarface)
 "Hasta lá vista, baby!" (Exterminador do Futuro)
 "Charles, o mundo já não é mais o mesmo." (Logan)
 "Eu sou o Homem de Ferro." (Ironman)
+"Citação teste." (Teste)
